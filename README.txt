@@ -2,7 +2,7 @@
 
 This project is an undergraduate thesis advised by Kathryn Z. Hadley,
 submitted to the Department of Physics at Oregon State University
-in partial fulfillment of the requirements for the degree BSc in Physics.
+in partial fulfillment of the requirements for the degree BS in Physics.
 
 The purpose of this project is to visualize curved space-time near compact masses, 
 and to generate images that showcase relativistic effects on light towards training
