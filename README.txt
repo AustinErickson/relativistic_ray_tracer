@@ -1,6 +1,6 @@
 # relativistic_ray_tracer
 
-Disclaimer: This code is incomplete
+DISCLAIMER: This code is incomplete
 
 This project is an undergraduate thesis advised by Kathryn Z. Hadley,
 submitted to the Department of Physics at Oregon State University
