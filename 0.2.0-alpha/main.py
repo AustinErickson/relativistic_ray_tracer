@@ -1,7 +1,7 @@
 # General Relatavistic Ray Tracer for Generating Images of Stellar Systems
 __author__ = "Austin Erickson"
 __date__ = "12-28-22"
-__version__ = "v0.1"
+__version__ = "0.2.0-alpha"
 
 import numpy as np
 
