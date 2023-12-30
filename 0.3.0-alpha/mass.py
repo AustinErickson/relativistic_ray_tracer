@@ -38,16 +38,13 @@ class Mass():
         # (assure masses are sufficiently far so that the space-time between them is sufficiently flat)
         
         max_radius1 = max(self.rs*soi_factor, self.radius)
-        print("max_radius1: ", max_radius1)
         
         masses_too_close = False
         
         for m in range(len(masses)):
             max_radius2 = max(masses[m].rs*soi_factor, masses[m].radius)
-            print("max_radius2: ", max_radius2)
             
             seperation_distance = np.linalg.norm(self.position - masses[m].position)
-            print("seperation_distance: ", seperation_distance)
             
             masses_too_close = max_radius1 + max_radius2 >= seperation_distance
         
